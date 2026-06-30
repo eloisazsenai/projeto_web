@@ -5,3 +5,16 @@ seletor{
 }
 */
 
+h3{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: blueviolet;
+}
+
+p{
+    font-family: Helvetica;
+    text-align: justify;
+    line-height: 35px;
+    color: rgb(182, 140, 221);
+}
